@@ -1,0 +1,798 @@
+accepting          positive 1
+acoustical         positive 0
+acrid              negative 1
+acute              positive 1
+alkaline           positive 0
+amoral             negative 1
+analyzable         positive 0
+annual             positive 0
+anti-infective     positive 1
+antic              positive 0
+arbitrary          positive 0
+archeological      positive 0
+architectural      positive 0
+artificial         positive 0
+arty               positive 1
+asinine            negative 1
+audio              positive 0
+aural              positive 0
+aware              positive 1
+awesome            positive 1
+awkward            negative 1
+backwoods          positive 0
+baffling           positive 0
+ballistic          positive 0
+banal              negative 1
+bangish            positive 1
+barbarous          negative 1
+bare               positive 0
+barest             positive 0
+barometric         positive 0
+bashful            positive 0
+beady              negative 1
+bedridden          negative 1
+beefy              positive 1
+believable         positive 1
+benevolent         positive 1
+best               positive 1
+bestselling        positive 1
+better             positive 1
+bifocal            positive 0
+birdlike           positive 0
+blackest           positive 0
+blanche            positive 0
+bleary             negative 1
+blithe             negative 1
+blonde             positive 0
+bloodiest          negative 1
+bloodstained       negative 1
+blunter            positive 0
+blurry             negative 1
+blustery           positive 0
+bodied             positive 0
+bombastic          negative 1
+boorish            negative 1
+bothersome         negative 1
+boxy               positive 0
+brand-new          positive 0
+bubbly             positive 1
+budgetary          positive 0
+buff               positive 1
+bugeyed            negative 1
+built-in           positive 0
+builtin            positive 0
+bullish            positive 0
+calamitous         negative 1
+callable           positive 0
+calmer             positive 1
+calmest            positive 1
+canny              positive 1
+capacious          positive 1
+capitalistic       positive 0
+cardiac            positive 0
+carefree           positive 0
+cataclysmic        negative 1
+catastrophic       negative 1
+catchy             positive 0
+catlike            positive 0
+causative          positive 0
+cheaper            positive 0
+chillier           positive 0
+chipper            positive 1
+circumspect        positive 0
+clear              positive 1
+coarse             positive 0
+cockeyed           negative 1
+cocky              negative 1
+cognizant          positive 1
+coincidental       positive 0
+collapsible        positive 0
+collectible        positive 0
+colloidal          positive 0
+colorful           positive 1
+combinable         positive 0
+comely             positive 1
+cometary           positive 0
+comfortable        positive 1
+commoner           positive 0
+communal           positive 0
+complaisant        positive 0
+complete           positive 0
+compulsive         negative 1
+conceptual         positive 0
+concerted          positive 0
+conciliatory       positive 0
+conclusive         positive 0
+conformist         positive 0
+confusing          negative 1
+congestive         negative 1
+congruent          positive 1
+conscious          positive 1
+conspiratorial     negative 1
+constricting       negative 1
+constructive       positive 1
+consular           positive 0
+consultative       positive 0
+contractual        positive 0
+contributory       positive 0
+contrite           positive 0
+convivial          positive 1
+convulsive         negative 1
+coolest            positive 1
+coppery            positive 0
+cordial            positive 1
+corny              positive 0
+coronary           positive 0
+costlier           positive 0
+counterfeit        negative 1
+countrywide        positive 0
+courtly            positive 0
+crabbed            positive 0
+craggy             positive 1
+crass              negative 1
+craven             negative 1
+credulous          positive 1
+creepy             negative 1
+crested            positive 0
+crestfallen        negative 1
+criss-cross        positive 0
+criss-crossed      positive 0
+critical           positive 1
+critical           negative 1
+crooked            negative 1
+crotchety          negative 1
+cruelest           negative 1
+crummy             negative 1
+cultural           positive 0
+custodial          positive 0
+dang               positive 0
+darker             positive 0
+darkest            negative 1
+dearer             positive 1
+dearest            positive 1
+debonair           positive 1
+deep               positive 0
+different          positive 0
+digital            positive 0
+dim                positive 0
+dingy              negative 1
+diversionary       
+doctrinaire        
+doleful            
+drunk              negative 1
+dulcet             
+duller             
+dullest            
+elfin              
+emergent           
+evolutionary       
+exceptional        
+exclusive          
+excusable          
+expandable         
+expendable         
+explicit           
+exploratory        
+expressionistic    
+expressionless     
+extralegal         
+fabulous           
+factual            
+fail-safe          
+fairest            
+fancier            
+far                
+farfetched         
+farthest           
+fast               
+faster             
+fastest            
+fatherly           
+fatter             
+fatuous            
+fearsome           
+feathery           
+fetching           
+fetid              
+few                
+fictional          
+fiercest           
+fifth              
+fiftieth           
+filial             
+finicky            
+fit                
+fitful             
+fittest            
+five-year          
+flamboyant         
+flammable          
+flawless           
+flimsy             
+flippant           
+flirtatious        
+floppy             
+florid             
+fluent             
+follow-up          
+fond               
+fonder             
+foster             
+four-year          
+fractious          
+frail              
+free               
+free-for-all       
+freehand           
+freer              
+freest             
+fresh              
+friendlier         
+frilly             
+frustrating        
+full-scale         
+fusty              
+garrulous          
+gay                
+gentile            
+gentle             
+gentlemanly        
+gentler            
+ghostlike          
+giddy              
+goddam             
+goddamn            
+gothic             
+governmental       
+graduate           
+grammatical        
+grander            
+grandiloquent      
+graphic            
+graphical          
+gratifying         
+graven             
+gravest            
+gravitational      
+grayer             
+great              
+greenest           
+grimmer            
+grizzled           
+grown-up           
+grubby             
+guiltless          
+guttural           
+habitable          
+hackneyed          
+hairless           
+halcyon            
+half-cocked        
+half-hearted       
+halfhearted        
+handier            
+handiest           
+handmade           
+hapless            
+happier            
+happiest           
+haunting           
+headless           
+healthier          
+healthiest         
+heavier            
+heaviest           
+heavy              
+hefty              
+hesitant           
+homebound          
+honorary           
+horned             
+hotter             
+humanist           
+humanistic         
+hungrier           
+ideal              
+illusionary        
+immediate          
+impassive          
+imperfect          
+imperious          
+impertinent        
+impetuous          
+impious            
+implicit           
+impolitic          
+imponderable       
+impoverished       
+impractical        
+impressionistic    
+impressive         
+improper           
+impulsive          
+inadvisable        
+inarticulate       
+inattentive        
+inboard            
+incarnate          
+incidental         
+incomparable       
+incomplete         
+inconceivable      
+inconsistent       
+incorrigible       
+incredible         
+incremental        
+incumbent          
+indefatigable      
+indefinable        
+indefinite         
+indelicate         
+indifferent        
+indiscreet         
+indiscriminate     
+indispensible      
+individual         
+individualistic    
+industrial         
+inertial           
+inescapable        
+inexorable         
+inextricable       
+inflexible         
+informational      
+informative        
+infrared           
+infuriating        
+inglorious         
+inhibitory         
+inhumane           
+injunctive         
+inner              
+inoperable         
+inopportune        
+insatiable         
+insensitive        
+inshore            
+insincere          
+insistent          
+inspirational      
+inspiring          
+institutional      
+insubordinate      
+insubstantial      
+intensive          
+intentioned        
+intercollegiate    
+intercontinental   
+interfaith         
+intergovernmental  
+intergroup         
+intermolecular     
+internationalist   
+interpersonal      
+interplanetary     
+interstate         
+interstellar       
+invariable         
+invariant          
+investigative      
+inveterate         
+inviolable         
+inviolate          
+invitational       
+invulnerable       
+inward             
+jazzy              
+jerky              
+jolly              
+keen               
+keenest            
+kinder             
+kindest            
+kindly             
+kinetic            
+knifelike          
+knightly           
+lacey              
+lacy               
+ladylike           
+lame               
+largest            
+larval             
+later              
+latest             
+lay-up             
+leaded             
+leaden             
+leaderless         
+least              
+leavened           
+legged             
+leggy              
+less               
+lexical            
+liable             
+libertarian        
+lighter            
+lightest           
+lighthearted       
+lightweight        
+like               
+likely             
+limber             
+literal            
+literate           
+little             
+littlest           
+livable            
+live               
+livelier           
+lively             
+liveried           
+long-overdue       
+loose              
+lordly             
+macabre            
+mammalian          
+man-made           
+mandatory          
+manic              
+manmade            
+masterful          
+masterly           
+mature             
+maudlin            
+maverick           
+mawkish            
+maximal            
+mean               
+melodic            
+metallic           
+mock               
+modular            
+moneyed            
+moneymaking        
+monogamous         
+monopolistic       
+monotone           
+monotonous         
+monstrous          
+moonlike           
+moonlit            
+mor                
+more               
+most               
+motherly           
+mousy              
+much               
+muddleheaded       
+muggy              
+mustached          
+mustachioed        
+mute               
+near               
+nearby             
+necessary          
+neutralist         
+new                
+newer              
+newest             
+newfound           
+nice               
+nicer              
+nicest             
+nightmarish        
+nighttime          
+nineteenth         
+ninetieth          
+non                
+non-military       
+nuclear            
+nutrient           
+odds-on            
+okay               
+"ol"               
+ole                
+overall            
+overseas           
+p.                 
+pale               
+pallid             
+panicky            
+paramilitary       
+paranoid           
+part-time          
+partial            
+pastoral           
+paunchy            
+peacemaking        
+pearly             
+pee-wee            
+pelvic             
+perky              
+permanent          
+petulant           
+phonic             
+picayune           
+pick-up            
+pillared           
+pint-sized         
+piquant            
+pitiable           
+pitiful            
+pitiless           
+pituitary          
+pivotal            
+planar             
+planetary          
+plausible          
+pleasing           
+plebeian           
+pleural            
+pliant             
+pluralistic        
+pointed            
+poor               
+poorer             
+poorest            
+portly             
+positive           
+possible           
+post-attack        
+pragmatic          
+prayerful          
+pre-season         
+predictable        
+prefab             
+preferable         
+pregnant           
+premarital         
+premonitory        
+preposterous       
+preschool          
+presidential       
+pretentious        
+pretrial           
+prettier           
+prettiest          
+prewar             
+primal             
+printable          
+pro                
+probabilistic      
+problematic        
+problematical      
+procedural         
+profitable         
+profound           
+projective         
+prominent          
+promotional        
+propagandistic     
+propitious         
+prosaic            
+prototypical       
+protozoan          
+prouder            
+proudest           
+providential       
+provisional        
+prudential         
+prurient           
+psychiatric        
+psychoanalytic     
+psychopathic       
+psychosomatic      
+psychotherapeutic  
+psychotic          
+public-spirited    
+puckish            
+puerile            
+punishable         
+purposeful         
+purposeless        
+quadrennial        
+qualitative        
+quarrelsome        
+quarterly          
+queerer            
+querulous          
+quick              
+quicker            
+quickest           
+quieter            
+quixotic           
+quizzical          
+racial             
+radial             
+radical            
+raffish            
+rakish             
+rampant            
+rancorous          
+random             
+rangy              
+rare               
+raspberry          
+raw                
+"rockin"           
+rocky              
+rococo             
+rotten             
+sacrificial        
+sadistic           
+salacious          
+sanctimonious      
+satiric            
+satisfactory       
+scalar             
+scant              
+scary              
+scholastic         
+scoreless          
+scornful           
+scraggly           
+scratchy           
+scrawny            
+sculptural         
+scurrilous         
+seasonal           
+second             
+secularist         
+seeming            
+seismological      
+selective          
+self-centered      
+self-contained     
+self-energizing    
+selfless           
+selling            
+sensible           
+seventeenth        
+several            
+severe             
+sexual             
+shrewdest          
+shy                
+skeletal           
+skimpy             
+skinless           
+slavish            
+sleepless          
+slightest          
+slimmer            
+slippery           
+slovenly           
+slower             
+slowest            
+snappy             
+snazzy             
+sneaky             
+snobbish           
+snug               
+societal           
+solicitous         
+sophisticated      
+sorrel             
+sounder            
+southbound         
+sparkling          
+spatial            
+specious           
+spic               
+spineless          
+spirited           
+splashy            
+splintery          
+spontaneous        
+spooky             
+sprightly          
+squalid            
+squashy            
+squeaky            
+stanch             
+standby            
+starchy            
+stateless          
+statesmanlike      
+statewide          
+staunchest         
+steadier           
+steely             
+steeper            
+steepest           
+step-by-step       
+stereo             
+stiffer            
+still              
+stilted            
+stimulating        
+stirling           
+stochastic         
+stocky             
+stodgy             
+stolid             
+storied            
+strange            
+strangest          
+stressful          
+strict             
+strictest          
+strong             
+stronger           
+strongest          
+stubborn           
+studious           
+stunning           
+stupidest          
+stylistic          
+suave              
+sublime            
+submachine         
+submissive         
+subservient        
+substantial        
+suburbanite        
+suggested          
+supine             
+supportive         
+swank              
+swanky             
+swart              
+swarthy            
+sweaty             
+sweeter            
+sweetest           
+swiftest           
+tactful            
+tactical           
+talky              
+taller             
+tangible           
+tawdry             
+taxable            
+taxpaying          
+tenebrous          
+terrifying         
+textual            
+textured           
+third              
+three-year         positive 0
+throaty            positive 0
+tidy               positive 1
+tight              
+tightest           
+timeless           
+tiniest            
+tireless           
+tolerable          
+tool               
+tops               
+topsy-turvy        
+torpid             negative 1
+typewritten        
+typical            
+unclear            
+undersea           
+unheard            
+uniformed          
+unstuck            
+urinary            
+usable             
+useful             
+using              
+vain               negative 1
+veterinary         
+wanton             
+warm               
+warmer             
+warmish            
+weak               
+weaker             
+weakest            
+whole              
+wobbly             
+wooded             
+woolen             
+youthful           positive 1
