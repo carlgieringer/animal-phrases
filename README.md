@@ -13,6 +13,11 @@ phrases based on animals.
 2. The phrase must contain some literary device such as a rhyme or an alliteration.
 3. The adjective should have a positive connotation (we want to start the day on 
    the right foot, after all!)
+   
+   
+### Examples
+
+"rococo buffalo", "profuse moose", "astute newt", and "plausible platypus"
 
 ## Running
 
@@ -44,6 +49,9 @@ The scripts works roughly by:
 
 - Enhance alliteration to work similarly to `pronouncing`'s rhyming: both words must match
   sounds up until the first vowel sound (e.g. "axial Akbash")
+- Alliterations tend to be pretty common, and the same adjective will appear with multiple animals
+  sharing the first initial phone.  Try ranking alliterations by the number of common
+  initial phones and then output the best ones.
 - finish manually labeling custom-sentiments.txt to increase sentiment precision
 - log animals lacking pronunciations in the CMU library; manually provide pronunciations.
 - create a model for inferring pronunciation of animals
